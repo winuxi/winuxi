@@ -8,16 +8,21 @@ Welcome to my GitHub profile! I’m a passionate Mobile App Developer with exper
 
 - Mobile App Development
 - API Development and Design
+- Backend Application
+- 3D Animation
+- Gaming
 
 ## 🌱 Experience
 
 - Experienced Mobile App Developer with Native and Flutter Frameworks.
-- Currently learning Laravel and Node.js.
+- Experienced Backend Developer with Laravel and Node Frameworks.
+- Currently learning Blender and Gamming with Godot.
 
 ## 💞️ Collaboration
 
 I’m looking to collaborate on:
 - Android app and module development.
+- Laravel Library Develpment
 
 ## 📫 Contact Me
 
