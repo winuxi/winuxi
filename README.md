@@ -29,7 +29,7 @@ I’m looking to collaborate on:
 - Email: [walelgnlinux@gmail.com](mailto:walelgnlinux@gmail.com)
 - Phone: +251922877115
 - Twitter: [@walelgn_winux](https://twitter.com/walelgn_winux)
-- Telegram: [t.me/wal_3_lgn](https://t.me/wal_3_lgn)
+- Telegram: [t.me/winux_i](https://t.me/wal_3_lgn)
 
 ---
 
