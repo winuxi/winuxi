@@ -1,14 +1,37 @@
-- 👋 Hi, I’m walelgn
-- 👀 I’m interested in Mobile App and API Development and Designign  
-- 🌱 i'm experianced Mobile App Dveloper with Native and Flutter Framework
-- 🌱 I’m currently learning Laravel and NodeJs
-- 💞️ I’m looking to collaborate on Android app and module devlopment
-- 📫 reach me through email: walelgnlinux@gmail.com, Phone +251922877115
-- 📫 Twitter @walelgn_winux, Telegram t.me/wal_3_lgn
-<!---
-walelgnw/walelgnw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Walelgn!
+
+Welcome to my GitHub profile! I’m a passionate Mobile App Developer with experience in both Native and Flutter frameworks. Here’s a bit about me:
+
+---
+
+## 👀 Interests
+
+- Mobile App Development
+- API Development and Design
+
+## 🌱 Experience
+
+- Experienced Mobile App Developer with Native and Flutter Frameworks.
+- Currently learning Laravel and Node.js.
+
+## 💞️ Collaboration
+
+I’m looking to collaborate on:
+- Android app and module development.
+
+## 📫 Contact Me
+
+- Email: [walelgnlinux@gmail.com](mailto:walelgnlinux@gmail.com)
+- Phone: +251922877115
+- Twitter: [@walelgn_winux](https://twitter.com/walelgn_winux)
+- Telegram: [t.me/wal_3_lgn](https://t.me/wal_3_lgn)
+
+---
+
+## 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -29,6 +52,7 @@ You can click the Preview link to take a look at your changes.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<!---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winuxi)](https://github.com/anuraghazra/github-readme-stats)
---->
+
+---
+
+Thank you for visiting my profile! 🚀
